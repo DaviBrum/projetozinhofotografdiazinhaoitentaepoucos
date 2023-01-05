@@ -9,7 +9,7 @@ import {
     Image
 } from "react-native";
 import { RFValue } from "react-native-responsive-fontsize";
-import PostCard from "./PostCard";
+import PostCard from "./PostCard.js";
 
 import { FlatList } from "react-native-gesture-handler";
 
